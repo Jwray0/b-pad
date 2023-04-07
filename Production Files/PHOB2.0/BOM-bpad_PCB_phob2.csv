@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC
+5.6k,"R5,R6,R7,R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C114627
+1.1k,"R1,R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C137780
+100n,"C1,C2,C3",C_0402_1005Metric,C1525
+C_left,"SW1,SW2,SW3,SW4",SW-TH_L6.2-W6.2-P5.00,C395225
+MCP3202,U1,SOIC-8_3.9x4.9mm_P1.27mm,C56997
+MountingHole,H12,MountingHole_2.0mm,
+MountingHole,H4,MountingHole_2.1mm,
+MountingHole,H5,MountingHole_2.5mm,
+MountingHole,H3,MountingHole_2.1mm,
+MountingHole,H1,MountingHole_2.1mm,
+MountingHole,H10,MountingHole_1.8mm,
+MountingHole,H13,MountingHole_2.0mm,
+MountingHole,H2,MountingHole_2.1mm,
+MountingHole,H11,MountingHole_5.2mm,
