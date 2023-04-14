@@ -9,3 +9,5 @@ Credit to the PCB design of the PhobGCC project (https://github.com/PhobGCC) for
 Other attributions:
  - Used the OEM GCC 3D Model by GearHawk Studio for reference when designing the c-pad center insert.
    Note: no parts of the GearHawk model are in any of the c-pad CAD models in this repo
+
+Added silkscreen to back of pcb 
